@@ -1,3 +1,6 @@
+// this file declares the data type
+// of the different image format.
+
 declare module "*.png" {
   const value: any;
   export default value;
