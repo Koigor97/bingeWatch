@@ -37,6 +37,7 @@ interface User {
     username: string;
     email: string;
     avatar: string;
+    name?: string;
 }
 
 // Define the structure for our global context.
