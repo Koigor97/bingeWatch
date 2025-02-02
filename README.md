@@ -12,7 +12,7 @@ BingeWatch is a mobile application designed for movie enthusiasts who want to di
 ### **Purpose of the App:**
 This project is an opportunity to deepen my expertise in mobile development using React Native. It allows me to work with APIs, manage local storage, and create a responsive and engaging UI. By integrating third-party data sources, I am also learning how to handle real-time content and optimize app performance.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-pumrVDbyDo)
 
 ---
 
@@ -26,9 +26,9 @@ This project is an opportunity to deepen my expertise in mobile development usin
 
 ### **Programming Languages & Libraries:**
 - JavaScript (React Native)
-- React Navigation
-- Axios (for API requests)
-- AsyncStorage (for local data persistence)
+- Expo Router
+- Appwrite
+- TMDB API
 
 ---
 
@@ -37,7 +37,6 @@ This project is an opportunity to deepen my expertise in mobile development usin
 - [React Native Docs](https://reactnative.dev/) - Official documentation
 - [Expo Docs](https://docs.expo.dev/) - Information on using Expo for React Native
 - [React Navigation](https://reactnavigation.org/) - Navigation setup and examples
-- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) - Persistent data storage in React Native
 
 ---
 
